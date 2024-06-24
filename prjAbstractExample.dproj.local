@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/06/24 11:09:55.000.306,=D:\Projetos Delphi 11\Unit1.pas</Transaction>
+    <Transaction>2024/06/24 11:10:26.000.752,=D:\Projetos Delphi 11\Unit2.pas</Transaction>
+    <Transaction>2024/06/24 11:10:29.000.956,=D:\Projetos Delphi 11\Unit3.pas</Transaction>
+    <Transaction>2024/06/24 11:12:07.000.166,D:\Projetos Delphi 11\Unit1.dfm=D:\Projetos Delphi 11\UAbstracExample.dfm</Transaction>
+    <Transaction>2024/06/24 11:12:07.000.166,D:\Projetos Delphi 11\Unit1.pas=D:\Projetos Delphi 11\UAbstracExample.pas</Transaction>
+    <Transaction>2024/06/24 11:12:17.000.335,D:\Projetos Delphi 11\Unit2.pas=D:\Projetos Delphi 11\UBasicShape.pas</Transaction>
+    <Transaction>2024/06/24 11:12:24.000.457,D:\Projetos Delphi 11\Unit3.pas=D:\Projetos Delphi 11\UShapes.pas</Transaction>
+    <Transaction>2024/06/24 11:12:38.000.395,D:\Projetos Delphi 11\Project1.dproj=D:\Projetos Delphi 11\prjAbstractExample.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
